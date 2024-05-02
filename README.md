@@ -10,23 +10,16 @@
 
 
 <p align="center">
-  <img src="gatonymous.png" alt="Gatonymous" width="130">
+  <img src="totoro.png" alt="gillyphuu" width="130">
   <img src="ai.png" alt="AI" width="100">
   <img src="dev.png" alt="Dev" width="100">
-  <img src="cpp.png" alt="CPP" width="100">
   <img src="acm.png" alt="ACM" width="125">
 </p>
 
 ## <i class="fas fa-globe" style="color:red"></i> Socials:
-<a href="https://facebook.com/pinguinos.enojados" style="color:blue"><i class="fab fa-facebook fa-2x"></i></a>
-<a href="https://instagram.com/gatocalipsis_" style="color:#bc2a8d"><i class="fab fa-instagram fa-2x"></i></a>
-<a href="https://youtube.com/@Gatonymous" style="color:red"><i class="fab fa-youtube fa-2x"></i></a>
-<a href="https://github.com/gatonymous" style="color:lime"><i class="fab fa-github-alt fa-2x"></i></a>
-
-## <i class="fas fa-school" style="color:orange"></i> My projects:
-### [DinoBot](https://github.com/gatonymous/DinoBot)  <i class="fas fa-robot" style="color:blue"></i>
-[DinoBot](https://github.com/gatonymous/DinoBot)
- is a Chatbot with Artificial Intelligence (natural language processing) capable of helping the engineering and computing user.
+<a href="https://facebook.com/glina.01/" style="color:blue"><i class="fab fa-facebook fa-2x"></i></a>
+<a href="https://instagram.com/glina_u.u" style="color:#bc2a8d"><i class="fab fa-instagram fa-2x"></i></a>
+<a href="https://github.com/gillyphuu" style="color:lime"><i class="fab fa-github-alt fa-2x"></i></a>
 
 ### [Rrubber Ducky](https://www.youtube.com/watch?v=efrvvtQzOrk)  <i class="fas fa-robot" style="color:blue"></i>
 Rubber Ducky emulation with arduino.
@@ -37,17 +30,17 @@ Rubber Ducky emulation with arduino.
 
 
 # <i class="fas fa-trophy" style="color:cyan"></i> GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gatonymous&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gatonymous&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gatonymous&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=gillyphuu&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gillyphuu&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gillyphuu&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### <i class="fas fa-quote-left" style="color:green"></i> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### <i class="fas fa-brain" style="color:cyan"></i> Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gatonymous&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=gillyphuus&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gatonymous&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gillyphuu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
